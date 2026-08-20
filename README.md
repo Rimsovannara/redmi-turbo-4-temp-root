@@ -67,6 +67,7 @@ Open the **KernelSU** application to confirm that temporary root status is activ
 
 For an automated setup that does not require manual ADB pairing, you can use the GhostLock app.
 
+### Quick Steps:
 1. **[Download the GhostLock APK](https://xdaforums.com/attachments/ghostlock-release-apk.6374784/)**
 2. Install the APK on your device.
 3. Open the application and tap the trigger button to activate temporary root.
@@ -74,11 +75,22 @@ For an automated setup that does not require manual ADB pairing, you can use the
 
 *(Source code available at the [GhostLock GitHub Repository](https://github.com/YuKongA/ghostlock-app))*
 
+### Video Guide:
+For a detailed visual walkthrough of Method 2, refer to the video guide below:
+
+**[YouTube: Redmi Turbo 4 Temporary Root - One-Click Method](https://youtube.com/shorts/W-y4V8Iqu2s?feature=share)**
+
+In this video tutorial, you'll learn:
+- How to properly install the GhostLock APK
+- Where to locate and tap the trigger button
+- How to verify successful root access via KernelSU
+- Troubleshooting common issues during the process
+
 ---
 
 ## 🤝 Credits & Acknowledgments
 
-* **XDA-Developers**: [Original XDA Guide for K80 Ultra / Redmi Turbo 4](https://xdaforums.com/t/guide-temporary-root-for-k80-ultra-redmi-turbo-4-no-bootloader-unlock-needed.4795161/) *(Originally sourced from CoolApk)*.
+* **XDA-Developers**: [Original XDA Guide for K80 Ultra / Redmi Turbo 4](https://xdaforums.com/t/guide-temporary-root-for-k80-ultra-redmi-turbo-4-no-bootloader-unlock-needed.4795161/)
 * **[YuKongA / GhostLock](https://github.com/YuKongA/ghostlock-app)** for the one-click automation tool.
 
 ---
